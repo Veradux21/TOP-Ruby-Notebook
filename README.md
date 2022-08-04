@@ -42,3 +42,12 @@ Implement a method #stock_picker that takes in an array of stock prices, one for
 Quick Tips:
     - You need to buy before you can sell
     - Pay attention to edge cases like when the lowest day is the last day or the highest day is the first day.
+
+## Project 4: Bubble Sort
+
+    Build a method #bubble_sort that takes an array and returns a sorted array. It must use the bubble sort methodology (using #sort would be pretty pointless, wouldn’t it?).
+
+```ruby
+> bubble_sort([4,3,78,2,0,2])
+=> [0,2,2,3,4,78]
+```
