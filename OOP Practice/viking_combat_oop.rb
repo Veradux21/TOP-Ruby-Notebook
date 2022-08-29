@@ -81,5 +81,7 @@ warrior_1.take_damage(munin)
 munin.take_damage(warrior_1)
 warrior_1.take_damage(munin)
 
+#TODO create a :battle method to simulate combat between two warriors
+
 p munin
 p warrior_1
